@@ -1,9 +1,5 @@
 # CartProdut
 
-# Proyecto E-commerce
-
-Este proyecto es una aplicación de E-commerce que incluye un backend en Node.js y un frontend en React.
-
 ## Instalación y Levantamiento
 
 ### Requisitos Previos
