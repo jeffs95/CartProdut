@@ -14,7 +14,7 @@
 
 2. **Instalar dependencias y levantar proyecto Backend
 npm install
-npm start
+node src/index.js
 
 3. **Instalar dependencias y levantar proyecto Front
 npm install
